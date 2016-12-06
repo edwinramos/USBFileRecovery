@@ -1,0 +1,6 @@
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\bin\Debug\USBFileRecovery.exe.config
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\bin\Debug\USBFileRecovery.exe
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\bin\Debug\USBFileRecovery.pdb
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\obj\Debug\USBFileRecovery.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\obj\Debug\USBFileRecovery.exe
+C:\Users\Edwin Ramos\Documents\Visual Studio 2015\Projects\USBFileRecovery\USBFileRecovery\obj\Debug\USBFileRecovery.pdb
